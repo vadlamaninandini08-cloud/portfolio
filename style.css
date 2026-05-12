@@ -1,6 +1,9 @@
-css
-body{
-  background-color: lightblue;
+body {
+  background-color:
+    color: white;
   text-align: center;
-  font-family: arial;
+  font-family: Arial, sans-serif;
+  padding-top: 100px;
+  margin: 0;
+  height: 100vh;
 }
